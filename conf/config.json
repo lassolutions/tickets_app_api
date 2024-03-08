@@ -1,0 +1,5 @@
+{
+  "DB": {
+    "url": "postgresql://postgres:nyxaImelEspEtitslApins@52.47.200.119:5446/tickets_tracker"
+  }
+}
